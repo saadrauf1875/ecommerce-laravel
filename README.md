@@ -11,7 +11,7 @@ git clone https://github.com/saadrauf1875/ecommerce-laravel.git
 
 4) Run php artisan key:generate
 
-5)Create the Database
+5)Create the Database OR RUN php artisan migrate:refresh --seed
 
 6)Run php artisan migrate
 
